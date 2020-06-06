@@ -1,0 +1,8 @@
+first_name = input("entter ur first name ")
+print (first_name)
+number = input("the number entered is  ")
+print (number)
+number1= input("the number1 entered is  ")
+print (number1)
+sum = int(number) + int(number1)
+print(sum)
